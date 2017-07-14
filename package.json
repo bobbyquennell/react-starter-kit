@@ -1,0 +1,31 @@
+{
+  "name": "react-starter-kit",
+  "version": "0.1.0",
+  "description": "a starter kit for React development",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyquennell/react-starter-kit.git"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "redux",
+    "webpack",
+    "babel",
+    "hot",
+    "reload",
+    "boilerplate",
+    "css",
+    "modules"
+  ],
+  "author": "Bobby Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobbyquennell/react-starter-kit/issues"
+  },
+  "homepage": "https://github.com/bobbyquennell/react-starter-kit#readme"
+}
