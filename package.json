@@ -4,7 +4,7 @@
   "description": "a starter kit for React development",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "build": "webpack --config config/webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/bobbyquennell/react-starter-kit/issues"
   },
-  "homepage": "https://github.com/bobbyquennell/react-starter-kit#readme"
+  "homepage": "https://github.com/bobbyquennell/react-starter-kit#readme",
+  "devDependencies": {
+    "webpack": "^3.2.0"
+  }
 }
