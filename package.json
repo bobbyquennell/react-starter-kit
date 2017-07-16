@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/bobbyquennell/react-starter-kit#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^0.1.16",
     "css-loader": "^0.28.4",
     "file-loader": "^0.11.2",
     "html-webpack-plugin": "^2.29.0",
